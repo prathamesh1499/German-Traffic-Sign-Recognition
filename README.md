@@ -17,7 +17,7 @@ Dataset obtained from - www.Kaggle.com
 ## Screenshorts
 ![OUTPUT](./Images/classid.png)
 
-![OUTPUT](./Images/Prediction.png)
+![OUTPUT](./Images/Predictions.png)
 
 
 ## Authors
