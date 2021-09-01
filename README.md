@@ -15,6 +15,11 @@ The dataset was used in a competition at IJCNN 2011 in San Jose, CA, USA.
 Dataset obtained from - www.Kaggle.com
 
 ## Screenshorts
+![OUTPUT](./Images/classid.png)
+
+![OUTPUT](./Images/Prediction.png)
+
+
 ## Authors
 
 - [Prathamesh Joshi](https://github.com/prathamesh1499)
